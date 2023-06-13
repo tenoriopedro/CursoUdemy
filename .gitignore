@@ -2,7 +2,7 @@
 __localcode
 .DS_Store
 chromedriver
-mysql_206
+mysql_container
 .env
 aula207_ola_django/static_files
 dist
